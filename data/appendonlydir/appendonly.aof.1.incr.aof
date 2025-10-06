@@ -1,0 +1,152 @@
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$3
+foo
+$3
+bar
+*3
+$3
+set
+$9
+taxperson
+$15
+[object Object]
+*3
+$3
+set
+$9
+taxperson
+$15
+[object Object]
+*3
+$3
+set
+$9
+taxperson
+$15
+[object Object]
+*3
+$3
+set
+$9
+taxperson
+$15
+[object Object]
+*3
+$3
+set
+$20
+taxperson:2701850401
+$15
+[object Object]
+*3
+$3
+set
+$9
+taxperson
+$15
+[object Object]
+*3
+$3
+set
+$20
+taxperson:2701850401
+$15
+[object Object]
+*3
+$3
+set
+$20
+taxperson:3333333333
+$15
+[object Object]
+*3
+$3
+set
+$20
+taxperson:2701850401
+$15
+[object Object]
+*3
+$3
+set
+$20
+taxperson:3333333333
+$15
+[object Object]
+*3
+$3
+set
+$20
+taxperson:2701850401
+$15
+[object Object]
+*3
+$3
+set
+$20
+taxperson:3333333333
+$15
+[object Object]
+*3
+$3
+set
+$20
+taxperson:2701850401
+$15
+[object Object]
+*3
+$3
+set
+$20
+taxperson:3333333333
+$15
+[object Object]
+*3
+$3
+set
+$20
+taxperson:2701850401
+$13
+{"foo":"bar"}
+*3
+$3
+set
+$20
+taxperson:3333333333
+$18
+{"foo":"test Bar"}
+*3
+$3
+set
+$20
+taxperson:2701850401
+$13
+{"foo":"bar"}
+*3
+$3
+set
+$20
+taxperson:3333333333
+$18
+{"foo":"test Bar"}
+*3
+$3
+set
+$20
+taxperson:2701850401
+$13
+{"foo":"bar"}
+*3
+$3
+set
+$20
+taxperson:3333333333
+$18
+{"foo":"test Bar"}
